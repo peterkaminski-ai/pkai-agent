@@ -2,6 +2,8 @@
 
 A starter kit for your own personal AI agent — a persistent, file-based companion you talk to through Claude Code.
 
+**Home page:** https://peterkaminski.ai/pkai-agent
+
 This repo is a template. You download it, open it in Claude Code, and on first run your new agent will introduce itself, ask what to call it, and offer to walk you through the rest of the PKAI setup if you want.
 
 ## What you get
